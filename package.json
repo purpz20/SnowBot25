@@ -1,0 +1,28 @@
+{
+  "name": "snowbot25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purpz20/SnowBot25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/purpz20/SnowBot25/issues"
+  },
+  "homepage": "https://github.com/purpz20/SnowBot25#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2"
+  }
+}
